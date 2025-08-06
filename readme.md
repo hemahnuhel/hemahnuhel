@@ -8,9 +8,7 @@ I'm an **Aspiring Software Developer** with a focus on backend development and a
 
 ## ⚒️ Tech Stack
 
-- **Languages:** JavaScript, Python, SQL
-- **Frontend:** React, React Native, Next.js  
-- **Backend:** Node.js, Express  
+- **Languages:** JavaScript, Python
 
 ## 🌐 Let's Connect
 
