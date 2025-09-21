@@ -6,11 +6,7 @@ I'm an **Aspiring Software Developer** with a focus on backend development and a
 - 🚀 Currently learning **Node.js**, **Data Structures & Algorithms**, and **Software Design Principles**  
 - 💡 Strong interest in APIs, automation, and clean backend architecture  
 
-## ⚒️ Tech Stack
-
 - **Languages:** JavaScript, Python
-
-## 🌐 Let's Connect
 
 - **🔗 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/emmanuel-felix1)  
 - **🌍 Portfolio:** Coming soon  
